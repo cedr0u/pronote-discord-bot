@@ -1,3 +1,13 @@
+_dependencies packages:_
+```
+pip install -U discord.py
+pip install -U pronotepy
+pip install python-dotenv
+pip install py-cord
+pip install os
+pip install datetime
+```
+
 _for initializing: change the bot token in the .env file, at the place of the red line in the sreenshot_
 
 ![Capture d’écran du 2023-12-17 17-11-47](https://github.com/cedr0u/pronote-discord-bot/assets/55026534/0577a2a1-bde3-40bd-b863-6b0228fa3953)
